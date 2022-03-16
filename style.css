@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(231, 211, 186);
+}
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:bisque;
+}
+.food {
+    font-size: 24px;
+}
+.items {
+    background-color:bisque;
+}
